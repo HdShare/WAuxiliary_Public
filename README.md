@@ -38,6 +38,9 @@
     <a href="https://github.com/HdShare/WAuxiliary_Public/releases/latest">
         <img src="https://img.shields.io/github/v/release/HdShare/WAuxiliary_Public?style=flat-square&label=Release&labelColor=28c445&color=c8c8c8" alt="release">
     </a>
+</p>
+
+<p align="center">
     <a href="https://t.me/Hd_WAuxiliary_CI">
         <img src="https://img.shields.io/static/v1?style=flat-square&label=Telegram&labelColor=01bfaf&message=Channel&color=099fdf" alt="Telegram">
     </a>
@@ -59,7 +62,7 @@ WeChat Auxiliary
 
 | Question | Answer                       |
 |----------|------------------------------|
-| 适配版本     | 理论适配 8.0.44~8.0.63 国内与PLAY版本 |
+| 适配版本     | 理论适配 8.0.44~8.0.64 国内与PLAY版本 |
 
 ## 致谢:
 
